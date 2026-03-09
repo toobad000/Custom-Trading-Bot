@@ -1,5 +1,5 @@
 # This strategy is for educational purposes only, 
- its a good baseline to further developed as it incorporates several input sources such as tickr to make trading decisions. (This strategy is not profitible yet!)
+ its a good baseline to further develop as it incorporates several input sources such as tickr to make trading decisions. (This strategy is not profitible yet!)
 
 
 This strategy works with Hummingbot and was set up to run on my raspberry pi, feel free to build upon it to try and make it profitible. 
